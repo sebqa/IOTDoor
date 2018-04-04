@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "457279402653",
+    "firebase_url": "https://iot-door-48346.firebaseio.com",
+    "project_id": "iot-door-48346",
+    "storage_bucket": "iot-door-48346.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457279402653:android:c46e9dd31ed238f5",
+        "android_client_info": {
+          "package_name": "aau.sebastian.iotdoor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457279402653-3ivs03ald2jobk5tuted2uq3i7r74lcu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "aau.sebastian.iotdoor",
+            "certificate_hash": "66e2611a99cb85580dd529ab52837c27ec66047f"
+          }
+        },
+        {
+          "client_id": "457279402653-mvu1t5u4hr9n83kv0brb6drqau3cmqvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKLS77BUlhCBs_e0Z3FAB4XHOA2pZicXg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457279402653-mvu1t5u4hr9n83kv0brb6drqau3cmqvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
